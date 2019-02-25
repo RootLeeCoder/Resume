@@ -16,7 +16,7 @@
 
 ---
 
-- 熟练掌握`HTML/JavaScript/CSS`，熟悉 W3C 标准
+- 熟练掌握`HTML/JavaScript/CSS`
 - 掌握`C/C++/C#/Java`等编程语言，熟练掌握常见的数据结构和算法，熟悉操作系统、计算机网络、数据库等相关专业知识
 - 熟悉`jQuery、BootStrap、Vue.js`等前端框架，能够熟练运用`Font Awesome、Animate`等库
 - 掌握`Git`常用命令，能够熟练使用`Markdown`编写文档
