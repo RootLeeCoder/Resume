@@ -18,11 +18,11 @@
 
 - 熟练掌握`HTML/JavaScript/CSS`
 - 掌握`C/C++/C#/Java`等编程语言，熟练掌握常见的数据结构和算法，熟悉操作系统、计算机网络、数据库等相关专业知识
-- 熟悉`jQuery、BootStrap、Vue.js`等前端框架，能够熟练运用`Font Awesome、Animate`等库
+- 了解`jQuery、BootStrap、Vue.js`等前端框架，熟悉`Font Awesome、Animate`等库
 - 掌握`Git`常用命令，能够熟练使用`Markdown`编写文档
 - 熟练使用`WebStorm、Sublime Text、VS Code`等前端开发工具
 - 熟练掌握`Word、Excel、PowerPoint`等办公软件，会`Photoshop`的初步使用
-- 熟悉`JSON`、`Ajax`，会用正则表达式
+- 熟悉`JSON`、`Ajax`，会用正则表达式，会写简单的`SQL`语句
 - 了解`HTML5`和`CSS3`的一些新特性
 
 
