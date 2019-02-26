@@ -23,7 +23,7 @@
 - 熟练使用`WebStorm、Sublime Text、VS Code`等前端开发工具
 - 熟练掌握`Word、Excel、PowerPoint`等办公软件，会`Photoshop`的初步使用
 - 熟悉`JSON`、`Ajax`，会用正则表达式
-- 了解`HTML5`的一些新特性
+- 了解`HTML5`和`CSS3`的一些新特性
 
 
 
