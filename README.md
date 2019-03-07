@@ -1,5 +1,10 @@
 # Resume
 
+## 求职意向
+
+---
+
+**Web前端开发工程师**
 
 
 ## 教育背景
@@ -16,9 +21,9 @@
 
 ---
 
-- 熟练掌握`HTML/JavaScript/CSS`，了解`HTML5`和`CSS3`的一些新特性
+- 掌握`HTML/JavaScript/CSS`，了解`HTML5`和`CSS3`的一些新特性
 - 掌握`C/C++/C#/Java`等编程语言，熟练掌握常见的数据结构和算法，熟悉操作系统、计算机网络、数据库等相关专业知识
-- 了解`jQuery、Bootstrap、Vue.js`等前端框架，熟悉`Font Awesome、Animate`等库
+- 熟悉`jQuery、Bootstrap、Vue.js`等前端框架，熟悉`Font Awesome、Animate`等库
 - 掌握`Git`常用命令，能够熟练使用`Markdown`编写文档
 - 熟练使用`WebStorm、Sublime Text、VS Code`等前端开发工具
 - 熟练掌握`Word、Excel、PowerPoint`等办公软件，会`Photoshop`的初步使用
@@ -58,6 +63,7 @@
 1. 热爱互联网，对IT行业充满热情
 2. 自学能力强，能快速接受使用新知识，有良好的分析解决问题能力和自我管理能力
 3. 具有很强的团队精神，有良好的组织、协调和沟通能力，有强烈的集体荣誉感
+
 
 
 ## 个人爱好
