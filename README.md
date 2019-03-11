@@ -88,10 +88,3 @@
 - Github：https://github.com/RootLeeCoder
 
 - 邮箱：RootLeeCoder@outlook.com
-
-- QQ：2257549014
-
-- 微信ID：CoderLiGen
-
-- 手机：15061222641
-
